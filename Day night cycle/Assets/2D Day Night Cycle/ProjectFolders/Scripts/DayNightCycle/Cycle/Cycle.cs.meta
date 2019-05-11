@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b78db6badaaf9f849a94ffbcf39df486
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - earth: {instanceID: 0}
+  - sunLight: {instanceID: 0}
+  - sunFlare: {instanceID: 0}
+  - stars: {instanceID: 0}
+  - lights: {instanceID: 0}
+  - seasonTxt: {instanceID: 0}
+  - daysTxt: {instanceID: 0}
+  - timeTxt: {instanceID: 0}
+  - fog: {instanceID: 0}
+  - ambient: {instanceID: 0}
+  - camera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
